@@ -6,7 +6,7 @@ PAN Scanner is a Python script to check for parameter-based open redirects in UR
 
 1. Clone this repository: git clone https://github.com/Aswin3301/PANScanner.git
 2. after installing the tool run
-3. pip3 install -r requirements.txt
+3. pip3 install -r requirements.txt or pip install -r requirements.txt
 4. Now you can use the scanner
 5. To know the options
 6. python3 pan.py or python3 pan.py --help
